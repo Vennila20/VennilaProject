@@ -11,5 +11,10 @@ public class ProjectPush {
 		ProjectPush p=new ProjectPush();
 		p.Code();
 	}
+	
+	private void reCode() {
+	
+		System.out.println("recode");
+	}
 
 }
