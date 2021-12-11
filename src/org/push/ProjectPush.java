@@ -13,8 +13,13 @@ public class ProjectPush {
 	}
 	
 	private void reCode() {
-	
+		
 		System.out.println("recode");
+	}
+	private void userCode() {
+	System.out.println("usercode");
+		
+	
 	}
 
 }
