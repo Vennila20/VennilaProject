@@ -11,5 +11,10 @@ public class ProjectPush {
 		ProjectPush p=new ProjectPush();
 		p.Code();
 	}
+	
+	private void userCode() {
+	System.out.println("usercode");
+		
+	}
 
 }
